@@ -1,0 +1,31 @@
+{
+  "name": "smartcart",
+  "version": "1.0.0",
+  "description": "Alexa \"Smart cart\" Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "umb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesh1896/smartCart.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Skill"
+  ],
+  "author": "Jesh Amera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesh1896/smartCart/issues"
+  },
+  "homepage": "https://github.com/yesh1896/smartCart#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "ask-sdk": "^2.8.0",
+    "ask-sdk-core": "^2.8.0",
+    "ask-sdk-model": "^1.28.0",
+    "aws-sdk": "^2.668.0",
+    "es6-promisify": "^6.1.0"
+  }
+}
